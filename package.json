@@ -18,7 +18,9 @@
     "@vue/cli-plugin-eslint": "^3.0.4",
     "@vue/cli-service": "^3.0.4",
     "@vue/eslint-config-standard": "^4.0.0",
+    "axios": "^0.21.1",
     "babel-eslint": "^10.0.1",
+    "element-ui": "^2.15.5",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "vue-template-compiler": "^2.6.10"
@@ -32,7 +34,9 @@
       "plugin:vue/essential",
       "@vue/standard"
     ],
-    "rules": {},
+    "rules": {
+      "space-before-function-paren": 0
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }
