@@ -51,5 +51,6 @@ import './assets/fonts/iconfont.css'
 
 ## 格式化文档
 - 右键：format document
-- 
+- 修改格式化的规则
+    - 创建文件 .prettierrc
 
