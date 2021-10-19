@@ -172,3 +172,7 @@ import './assets/fonts/iconfont.css'
     }
     ```
 
+# git技能
+- 从现有分支中 checkout出一个新的分支： git checkout -b rights
+- 将新创建的分支推送到git上面，git push -u origin rights
+
